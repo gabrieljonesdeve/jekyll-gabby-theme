@@ -1,0 +1,13 @@
+// assets/scss/style.scss
+
+// Importa Bootstrap Italia
+@import 'bootstrap-italia/scss/bootstrap-italia';
+
+// Personalizza i colori
+$primary: #ff5733; // Cambia il colore primario
+$secondary: #3333ff; // Cambia il colore secondario
+
+// Aggiungi altre personalizzazioni se necessario
+body {
+    background-color: $secondary; // Imposta il colore di sfondo del body
+}
